@@ -3,7 +3,7 @@
 www.Indeed.fr
 
 ### Introduction
-In this repository, we find a code built on python 3.9.7 for scrapping indeed positions offer according to a specific position and location.
+In this repository, we find a code built on python 3.9.7 for scrapping indeed offer  positions according to a specific position and location.
 
 ### Libraries
 - requests
