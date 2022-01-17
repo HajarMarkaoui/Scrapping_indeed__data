@@ -11,11 +11,11 @@ In this repository, we find a code built on python 3.9.7 for scrapping indeed po
 - pandas
 - csv
 
-### launch
+### Launch
 To run this project :
-- install python
-- install libraries
-- execute the scapping.inpy file after changing the parameters
+- Install python
+- Install libraries
+- Execute the scapping.inpy file after changing the parameters
 
 
 
